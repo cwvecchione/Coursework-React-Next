@@ -1,20 +1,18 @@
-# Coursework-React
+# Coursework-React-Next
 A collection of projects I developed while taking a Udemy React masterclass.
 
 ## Wordcount-App
 A simple word count app built in React  
-Demo: [wordcount-app.vercel.app/](wordcount-app.vercel.app/)
 
 ## Blog-App
 A simple blog application built using react, connected to a SQLite database, and uses Auth0 for user login functionality.
 
 ## Task-List
-A simple task list application built using React  
-Demo: [cw-task-tracker.vercel.app/](cw-task-tracker.vercel.app)
+A simple task list application built using React
 
 ## Movie-Finder
 A movie information and search app built using React and Tailwind CSS. The movie data is populated by The Movie Database API.  
-Demo: [movie-search-app-eight-neon.vercel.app](movie-search-app-eight-neon.vercel.app)
+Demo: [movie-finder.vercel.app](movie-finder.vercel.app)
 
 ## Shopping-Cart
 A shopping cart app built in React.  
