@@ -12,8 +12,8 @@ A simple task list application built using React
 
 ## Movie-Finder
 A movie information and search app built using React and Tailwind CSS. The movie data is populated by The Movie Database API.  
-Demo: [http://movie-finder1.vercel.app](movie-finder1.vercel.app)
+Demo: [movie-finder1.vercel.app](http://movie-finder1.vercel.app)
 
 ## Shopping-Cart
 A shopping cart app built in React.  
-Demo: [http://cw-shopping-cart.vercel.app](cw-shopping-cart.vercel.app)
+Demo: [cw-shopping-cart.vercel.app](http://cw-shopping-cart.vercel.app)
