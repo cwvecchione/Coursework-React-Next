@@ -11,7 +11,7 @@ export const useFetch = (apiPath, queryTerm="") => {
                 method: 'GET',
                 headers: {
                     Accept: 'application/json',
-                    Authorization: `Bearer ${process.env.REACT_TMDB_READ_ACCESS_TOKEN}`
+                    Authorization: `Bearer ${process.env.REACT_APP_TMDB_READ_ACCESS_TOKEN}`
                 }
             };
             const response = await fetch(url, options);
